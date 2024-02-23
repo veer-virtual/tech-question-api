@@ -7,9 +7,9 @@ Step 2: run the server by command  `npm run dev` it will run `http:://localhost:
 
 ## Storage and Collection Firebase
 
-Bucket: gs://fileuploaddemo-a176e.appspot.com
+Bucket: `gs://fileuploaddemo-a176e.appspot.com`
 
-Collection : fileUploadDetails
+Collection : `fileUploadDetails`
 
 ---------------------------------------------------------------------------------
 ## Tech Question 1 (API)
