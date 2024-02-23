@@ -5,13 +5,10 @@ Step 1: First Execute the command `npm i or npm install`
 
 Step 2: run the server by command  `npm run dev` it will run `http:://localhost:3000`
 
-## Run server
-
-Step 2: run the server by command  `npm run dev` it will run `http:://localhost:3000`
-
 ## Storage and Collection Firebase
 
 Bucket: gs://fileuploaddemo-a176e.appspot.com
+
 Collection : fileUploadDetails
 
 ---------------------------------------------------------------------------------
